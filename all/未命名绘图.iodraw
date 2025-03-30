@@ -10,8 +10,8 @@
         <mxCell id="caeyCtuwp_4aIB3yJ6jP-2" value="innoDB存储引擎" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="144" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="caeyCtuwp_4aIB3yJ6jP-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-257" y="102" width="120" height="60" as="geometry" />
+        <mxCell id="caeyCtuwp_4aIB3yJ6jP-3" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-257" y="102" width="210" height="390" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
